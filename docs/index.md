@@ -1,3 +1,5 @@
+[barefoot](barefoot.md)
+
 1![](https://cdn.discordapp.com/attachments/970867194810490933/1006869389804568616/2a6d4afc.webp)
 2![](https://cdn.discordapp.com/attachments/970867194810490933/1006869390345654302/4ca669be.webp)
 3![](https://cdn.discordapp.com/attachments/970867194810490933/1006869390681182320/9a838bb4.webp)
