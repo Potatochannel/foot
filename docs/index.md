@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/Potatochannel/foot/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Potatochannel/foot/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+1![](https://cdn.discordapp.com/attachments/970867194810490933/1006869389804568616/2a6d4afc.webp)
+2![](https://cdn.discordapp.com/attachments/970867194810490933/1006869390345654302/4ca669be.webp)
+3![](https://cdn.discordapp.com/attachments/970867194810490933/1006869390681182320/9a838bb4.webp)
+4![](https://cdn.discordapp.com/attachments/970867194810490933/1006869391012540488/46b0791d.webp)
+5![](https://cdn.discordapp.com/attachments/970867194810490933/1006869391675248731/53c77039.webp)
+6![](https://cdn.discordapp.com/attachments/970867194810490933/1006869392061108254/15379c2b.webp)
+7![](https://cdn.discordapp.com/attachments/970867194810490933/1006869392501518426/43340b92.webp)
+8![](https://cdn.discordapp.com/attachments/970867194810490933/1006869750091092038/c980e4b5.webp)
+9![](https://cdn.discordapp.com/attachments/970867194810490933/1006869750439231550/db9691d4.webp)
+10![](https://cdn.discordapp.com/attachments/970867194810490933/1006869751345205280/de336029.webp)
+11![](https://cdn.discordapp.com/attachments/970867194810490933/1006869751676538950/e8db5fcf.webp)
+12![](https://cdn.discordapp.com/attachments/970867194810490933/1006869752167288873/fb7254dc.webp)
+13![](https://cdn.discordapp.com/attachments/970867194810490933/1006869752846762004/bf0e3610.webp)
+14![](https://cdn.discordapp.com/attachments/970867194810490933/1006917962738962473/bc22b5de.webp)
+15![](https://cdn.discordapp.com/attachments/970867194810490933/1006917963074502676/3b6f58ad.webp)
+16![](https://cdn.discordapp.com/attachments/970867194810490933/1006917964001452032/de336029.webp)
+17![](https://cdn.discordapp.com/attachments/970867194810490933/1006917964618010644/2a6d4afc.webp)
+18![](https://cdn.discordapp.com/attachments/970867194810490933/1006917967105232957/99ce19b9.webp)
+19![](https://cdn.discordapp.com/attachments/970867194810490933/1006918041642209420/658bbef0.webp)
+20![](https://cdn.discordapp.com/attachments/970867194810490933/1006918042049073203/6b3c4763.webp)
+21![](https://cdn.discordapp.com/attachments/970867194810490933/1006918044897001524/cdf0b152.webp)
+22![](https://cdn.discordapp.com/attachments/970867194810490933/1006918045412888717/b270470c.webp)
+23![](https://cdn.discordapp.com/attachments/970867194810490933/1006918046046232687/78272551.webp)
+24![](https://cdn.discordapp.com/attachments/970867194810490933/1006918046805409872/a7775a88.webp)
+25![](https://cdn.discordapp.com/attachments/970867194810490933/1006918047312924703/46a11186.webp)
+26![](https://cdn.discordapp.com/attachments/970867194810490933/1006918048864817252/c8f2d3ff.webp)
+27![](https://cdn.discordapp.com/attachments/970867194810490933/1006918049452007545/f7d66e9f.webp)
+28![](https://cdn.discordapp.com/attachments/970867194810490933/1006918050018230392/e6b3c16b.webp)
+29![](https://cdn.discordapp.com/attachments/970867194810490933/1006918075003707402/o0240032013000457139.jpg)
+30![](https://cdn.discordapp.com/attachments/970867194810490933/1006918075217629316/4087d530.webp)
+31![](https://cdn.discordapp.com/attachments/970867194810490933/1006918075540570134/e2643a9e.webp)
+32![](https://cdn.discordapp.com/attachments/970867194810490933/1006918075838373939/5fe4500c.webp)
+33![](https://cdn.discordapp.com/attachments/970867194810490933/1006918076211679323/4d6f983b.webp)
