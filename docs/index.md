@@ -33,3 +33,4 @@
 31![](https://cdn.discordapp.com/attachments/970867194810490933/1006918075540570134/e2643a9e.webp)
 32![](https://cdn.discordapp.com/attachments/970867194810490933/1006918075838373939/5fe4500c.webp)
 33![](https://cdn.discordapp.com/attachments/970867194810490933/1006918076211679323/4d6f983b.webp)
+33![](https://media.discordapp.net/attachments/970867194810490933/1052575511622205530/star-running-into-trouble-again_21.jpg?width=1246&height=701)
