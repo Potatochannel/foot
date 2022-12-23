@@ -40,3 +40,7 @@
 ![](https://media.discordapp.net/attachments/970867194810490933/1052575986782310450/Invited_by_the_spring_weather_take_a_walk_barefoot_6-7_screenshot.png?width=1246&height=701)
 ![](https://media.discordapp.net/attachments/970867194810490933/1053937395109736499/vlcsnap-2022-12-18-15h52m29s510.png?width=1246&height=701)
 ![](https://media.discordapp.net/attachments/970867194810490933/1053937395491422248/vlcsnap-2022-12-18-15h52m39s601.png?width=1246&height=701)
+![](https://cdn.discordapp.com/attachments/970867194810490933/1055438132784410644/vlcsnap-2022-12-22-19h40m39s358.png)
+![](https://cdn.discordapp.com/attachments/970867194810490933/1055438133581328446/vlcsnap-2022-12-22-19h41m42s995.png)
+![](https://cdn.discordapp.com/attachments/970867194810490933/1055438134038499338/vlcsnap-2022-12-22-19h41m58s789.png)
+![](images/2022/12/https-cdn-discordapp-com-attachments-970867194810490933-1055438134843805736-vlcsnap-2022-12-22-19h42m18s538-png.png)
