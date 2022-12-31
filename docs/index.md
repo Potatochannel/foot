@@ -44,3 +44,6 @@
 ![](https://cdn.discordapp.com/attachments/970867194810490933/1055438133581328446/vlcsnap-2022-12-22-19h41m42s995.png)
 ![](https://cdn.discordapp.com/attachments/970867194810490933/1055438134038499338/vlcsnap-2022-12-22-19h41m58s789.png)
 ![](images/2022/12/https-cdn-discordapp-com-attachments-970867194810490933-1055438134843805736-vlcsnap-2022-12-22-19h42m18s538-png.png)
+![](https://cdn.discordapp.com/attachments/970867194810490933/1058646799461650453/vlcsnap-2022-12-31-15h26m53s013.png)
+![](https://cdn.discordapp.com/attachments/970867194810490933/1058646847381577798/vlcsnap-2022-12-31-15h27m09s142.png)
+![](https://cdn.discordapp.com/attachments/970867194810490933/1058647360726650920/vlcsnap-2022-12-31-16h26m27s032.png)
